@@ -1,0 +1,10 @@
+nlu
+pyspark
+tensorflow
+numpy
+pandas
+sklearn
+jupyter
+numpy
+flask
+streamlit
